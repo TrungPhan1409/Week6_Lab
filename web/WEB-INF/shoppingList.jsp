@@ -1,6 +1,6 @@
 <%-- 
     Document   : shoppingList
-    Created on : 27-Feb-2023, 2:40:50 AM
+    Created on : 26-Feb-2023, 1:40:50 PM
     Author     : darkn
 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
